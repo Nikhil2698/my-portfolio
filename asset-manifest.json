@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.01bce2b7.css",
+    "main.js": "/my-portfolio/static/js/main.5d173654.js",
+    "static/js/787.1ed0c42c.chunk.js": "/my-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/SS.png": "/my-portfolio/static/media/SS.6417fdb7e1a77b94e426.png",
+    "static/media/NewsIntel.png": "/my-portfolio/static/media/NewsIntel.d3dfd277de03d28e0255.png",
+    "static/media/pneumonia.png": "/my-portfolio/static/media/pneumonia.4c41aafa39281dd818d9.png",
+    "static/media/TCS.png": "/my-portfolio/static/media/TCS.fadeac9bc109259c8530.png",
+    "static/media/Communication.webp": "/my-portfolio/static/media/Communication.337cfb49d5d9d4ff65f1.webp",
+    "static/media/creativity.jpg": "/my-portfolio/static/media/creativity.e704ef462c2bc99d7118.jpg",
+    "static/media/pfp.png": "/my-portfolio/static/media/pfp.783c16ddbbbfab3e54de.png",
+    "static/media/adaptability.jpeg": "/my-portfolio/static/media/adaptability.cff95dac8e89734ac4fb.jpeg",
+    "static/media/MTA.png": "/my-portfolio/static/media/MTA.50fc985e3eaf53b10073.png",
+    "static/media/teamWork.png": "/my-portfolio/static/media/teamWork.9b90700a9d7c4a25ba56.png",
+    "static/media/udemy.png": "/my-portfolio/static/media/udemy.08fd8a18d6c8f5c1546a.png",
+    "static/media/time.png": "/my-portfolio/static/media/time.c8344006d5b41cc24273.png",
+    "static/media/problemSolving.webp": "/my-portfolio/static/media/problemSolving.02c276b3f3a59ccce2e3.webp",
+    "static/media/IIIT.png": "/my-portfolio/static/media/IIIT.1dfdee63da45f70b78e0.png",
+    "static/media/github.png": "/my-portfolio/static/media/github.f11021803f68852df283.png",
+    "static/media/education.png": "/my-portfolio/static/media/education.4ef27ed177773c43acfb.png",
+    "static/media/linkedin.png": "/my-portfolio/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.01bce2b7.css.map": "/my-portfolio/static/css/main.01bce2b7.css.map",
+    "main.5d173654.js.map": "/my-portfolio/static/js/main.5d173654.js.map",
+    "787.1ed0c42c.chunk.js.map": "/my-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01bce2b7.css",
+    "static/js/main.5d173654.js"
+  ]
+}
